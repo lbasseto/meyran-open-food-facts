@@ -3,7 +3,7 @@
 # Abstract
 We would like to uncover insights about the nutritional quality of food consumed around the world. Food habits vary among countries, we would like to point out which areas offer the least healthy options by observing the products offered there.
 
-Differences in quality could be explained by cultural habits, economical situation and also legislations. Additives in particular would be a good example of these regulation differences, some artificial dyes are legal in the US but not Europe. We would like to uncover how large the offer is in countries where these dyes are legal? Can we see that banning an ingredient in a certain country reduces its presence in other places?
+Differences in quality could be explained by cultural habits, economic situation and also legislations. Additives restrictions in particular would be a good example of these differences in regulations. Indeed, some artificial dyes are legal in the US but not in Europe. We would like to uncover how common these products are in countries where these dyes are legal. Can we see that banning an ingredient in a certain country reduces its presence in other places?
 
 We will also consider the amounts of sugar and fat in different products, and see how widespread ingredients like palm oil are for example.
 
@@ -15,6 +15,7 @@ There are a lot of questions to answer. Here are a few examples of topics and co
 General questions
 * Where in the world is food with the most additives sold?
 * What is the proportion of palm oil or ingredients derived palm oil in products with a high quantity of fat or sugar?
+* What are the most common ingredients per region?
 
 Sugar, fat
 * Where are the most sugary / fat products sold in the world?
@@ -45,7 +46,7 @@ We plan to reach milestone 2 with three main tasks :
 
 1. Load the data, clean it and format it if necessary.
 2. Research (on the internet) what the most significative nutrition facts are. We want to focus on indicators that clearly characterizes unhealthy foods. Based on our research and what is available on the dataset, we will define and select the useful informations.
-3. Reformat the data in an easy-to-use format, containing only the useful informations that we defined.
+3. Remove irrelevant data and make a few basic visualisations to detect any problems or major trends in the dataset
 
 
 # Questions for TAa
