@@ -13,7 +13,7 @@ We will use the Open Food Facts database which will allow us to get access to in
 There are a lot of questions to answer. Here are a few examples of topics and correlated questions:
 
 General questions
-* Where in the food with the most additives sold?
+* Where is food with the most additives sold?
 * What is the proportion of palm oil or ingredients derived palm oil in products with a high quantity of fat or sugar?
 * What are the most common ingredients per region?
 
