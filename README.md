@@ -36,3 +36,6 @@ Legislation
 We plan to use the Open Food Facts database. It is a TSV file with fields concerning both the metadata of the product (its origin, where it is available, the brand that sells it, ...)  and extensive nutritional data. All the fields available are indicated here.
 
 The size of the dataset is 1.6 GB, which is sufficiently small to load it entirely in memory.
+
+
+The dataset mostly contains products from Western Europe and North America. We will thus focus our research on those areas. Products from Asia, Africa or South America are too poorly referenced in the dataset to get relevant informations. 
