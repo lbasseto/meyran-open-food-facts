@@ -2,17 +2,17 @@
 layout: default
 ---
 
-<div style ="background-color:black; color:white; font-size:50px">
-# Open Food Facts For Social Good
+<div style ="background-color:black; color:white; height:150px; ">
+  <h1> Open Food Facts For Social Good </h1>
 </div>
 
-<div style="width:85%">
+<div style="padding-left:6%">
 
 This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
 
-## Palm Oil
+<h2> Palm Oil </h2>
 
-### What is Palm Oil?
+<h3> What is Palm Oil? </h3>
 
 ### How common is it in European foods?
 
