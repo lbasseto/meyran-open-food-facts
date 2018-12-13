@@ -2,7 +2,11 @@
 layout: default
 ---
 
+<div style ="background-color:black; color:white; font-size:50px">
 # Open Food Facts For Social Good
+</div>
+
+<div style="width:85%">
 
 This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
 
@@ -97,3 +101,4 @@ Long, single-line code blocks should not wrap. They should horizontally scroll i
 ```
 The final element.
 ```
+</div>
