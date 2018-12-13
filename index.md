@@ -2,51 +2,33 @@
 
 This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
 
-<span style="font-size:50px; color:green"> 33% </span>
-
 ## Palm Oil
 
-> This is a blockquote following a header.
->
+### What is Palm Oil?
+
+### How common is it in European foods?
+
+European food products containing Palm Oil<span style="font-size:55px; color:green"> 3.43%</span>
+
+### Is it bad for your health?
+
 > When something is important enough, you do it even if the odds are not in your favor.
 
-### Additives legislation
+### What products and brands contain Palm Oil?
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+### Why does palm oil have a bad reputation?
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+#### Where is it produced? Economic situation of countries / regions where it is produced
 
-#### Header 4
+#### Consequences
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+### Any solutions?
 
-##### Header 5
 
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
 
-###### Header 6
 
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
+
+
 
 ### There's a horizontal rule below this.
 
