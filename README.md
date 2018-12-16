@@ -41,6 +41,6 @@ The size of the dataset is 1.6 GB, which is sufficiently small to load it entire
 The dataset mostly contains products from Western Europe and North America. We will thus focus our research on those areas. Products from Asia, Africa or South America are too poorly referenced in the dataset to get relevant informations.
 
 # Contributions
-Louis: Cleaning for milestone 2 and readme for first 2 milestones. Additives story
-Aurélien: Sugar story in final, data analysis for last milestone.
-Kyle: Palm oil story, plotting graphs, setting up website. Added map.
+- Louis: Cleaning for milestone 2 and readme for first 2 milestones. Additives story
+- Aurélien: Sugar story in final, data analysis for last milestone.
+- Kyle: Palm oil story, plotting graphs and maps, setting up website and domain name.
